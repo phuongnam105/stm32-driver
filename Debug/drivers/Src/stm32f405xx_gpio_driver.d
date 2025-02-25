@@ -1,0 +1,12 @@
+drivers/Src/stm32f405xx_gpio_driver.o: \
+ ../drivers/Src/stm32f405xx_gpio_driver.c \
+ C:/Users/Phuong\ Nam/STM32CubeIDE/workspace_1.17.0/stm32f4xx_drivers/drivers/Inc/stm32f405xx_gpio_driver.h \
+ C:/Users/Phuong\ Nam/STM32CubeIDE/workspace_1.17.0/stm32f4xx_drivers/drivers/Inc/stm32f405xx.h \
+ C:/Users/Phuong\ Nam/STM32CubeIDE/workspace_1.17.0/stm32f4xx_drivers/drivers/Inc/stm32f405xx_gpio_driver.h \
+ C:/Users/Phuong\ Nam/STM32CubeIDE/workspace_1.17.0/stm32f4xx_drivers/drivers/Inc/stm32f405xx_spi_driver.h \
+ C:/Users/Phuong\ Nam/STM32CubeIDE/workspace_1.17.0/stm32f4xx_drivers/drivers/Inc/stm32f405xx_i2c_driver.h
+C:/Users/Phuong\ Nam/STM32CubeIDE/workspace_1.17.0/stm32f4xx_drivers/drivers/Inc/stm32f405xx_gpio_driver.h:
+C:/Users/Phuong\ Nam/STM32CubeIDE/workspace_1.17.0/stm32f4xx_drivers/drivers/Inc/stm32f405xx.h:
+C:/Users/Phuong\ Nam/STM32CubeIDE/workspace_1.17.0/stm32f4xx_drivers/drivers/Inc/stm32f405xx_gpio_driver.h:
+C:/Users/Phuong\ Nam/STM32CubeIDE/workspace_1.17.0/stm32f4xx_drivers/drivers/Inc/stm32f405xx_spi_driver.h:
+C:/Users/Phuong\ Nam/STM32CubeIDE/workspace_1.17.0/stm32f4xx_drivers/drivers/Inc/stm32f405xx_i2c_driver.h:
