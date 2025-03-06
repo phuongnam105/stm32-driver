@@ -1,5 +1,5 @@
-Driver code for USART, I2C, SPI protocol
+Driver Code for USART, I2C, SPI Protocol
 
-Please ,checking driver file to see the code !
+Please, check the driver file to see the code!
 
-Thank you !
+Thank you!
